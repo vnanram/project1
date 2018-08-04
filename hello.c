@@ -4,5 +4,6 @@ main()
 {
 
 	printf(":hello");
-
+        printf("hi');
+	printf("nmesta");
 }
